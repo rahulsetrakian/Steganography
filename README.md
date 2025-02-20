@@ -21,7 +21,7 @@ This project is a **capstone project** for the **IBM Edunet Foundation Internshi
 ## Installation
 1. Clone the repository or download the scripts.
 ```sh
- git clone https://github.com/your-repo/image-steganography.git
+ git clone https://github.com/rahulsetrakian/Steganography.git
 ```
 2. Install the required dependencies:
 ```sh
